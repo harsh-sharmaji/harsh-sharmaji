@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate frontend developer from Banglore</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harsh-sharmaji/Portfolio](https://github.com/harsh-sharmaji/Portfolio)
+- 👨‍💻 My Portfolio is available at [https://github.com/harsh-sharmaji/Portfolio](https://github.com/harsh-sharmaji/Portfolio)
 
 - 📫 How to reach me **harsh.codess@gmail.com**
 
