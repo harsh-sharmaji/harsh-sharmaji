@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 My Portfolio is available at [https://github.com/harsh-sharmaji/Portfolio](https://github.com/harsh-sharmaji/Portfolio)
+- 👨‍💻 My Portfolio is available at [Check Here](https://harsh-sharmaji.github.io/Portfolio/)
 
 - 📫 How to reach me **harsh.codess@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16VTX4rIJPCbZzQQgPqzAoOvYnd--8Q0L/view?usp=sharing](https://drive.google.com/file/d/16VTX4rIJPCbZzQQgPqzAoOvYnd--8Q0L/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16VTX4rIJPCbZzQQgPqzAoOvYnd--8Q0L/view?usp=sharing)
 
 - ⚡ Fun fact **2x National Football Player**
 
