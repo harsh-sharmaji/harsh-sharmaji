@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate frontend developer from Banglore</h3>
+<h3 align="center">A Passionate FRONTEND DEVELOPER from Banglore</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
