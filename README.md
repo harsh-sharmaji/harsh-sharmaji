@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harsh.codess@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/16VTX4rIJPCbZzQQgPqzAoOvYnd--8Q0L/view?usp=sharing](https://drive.google.com/file/d/1n-A3sz6bGlztpEai8oL2IADmxyI6uSDl/view))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1n-A3sz6bGlztpEai8oL2IADmxyI6uSDl/view)
 
 - ⚡ Fun fact **2x National Football Player**
 
