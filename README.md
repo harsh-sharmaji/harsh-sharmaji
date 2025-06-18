@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A Passionate FRONTEND DEVELOPER from Banglore</h3>
+<h3 align="center">A Passionate Data Enthusiast from Bengaluru</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 My Portfolio is available at [Check Here](https://harsh-sharmaji.github.io/Portfolio/)
 
